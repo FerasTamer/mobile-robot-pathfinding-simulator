@@ -1,2 +1,26 @@
-# mobile-robot-pathfinding-simulator
-This is an interactive Python-based simulation that demonstrates autonomous robot navigation using the A* pathfinding algorithm. The project combines grid-based navigation, obstacle avoidance, and differential drive robot kinematics to create a realistic and educational robotics simulation.
+# Mobile Robot Pathfinding Simulator  
+
+## 🤖 Project Overview  
+
+This simulation demonstrates an autonomous mobile robot navigating through a grid-based environment using A* pathfinding algorithm. Users can interactively create obstacles, define start and end points, and observe the robot's path planning and movement.  
+
+## ✨ Features  
+
+- Interactive grid-based navigation  
+- A* pathfinding algorithm  
+- Dynamic obstacle placement  
+- Realistic robot movement  
+- Differential drive kinematics simulation  
+
+## 🛠 Prerequisites  
+
+- Python 3.8+  
+- Pygame  
+- NumPy  
+
+## 🚀 Installation  
+
+1. Clone the repository:  
+```bash  
+git clone https://github.com/yourusername/mobile-robot-pathfinding-simulator.git  
+cd mobile-robot-pathfinding-simulator
